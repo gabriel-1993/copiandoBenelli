@@ -3,7 +3,7 @@
   src: url(./fuente/Myriad\ Pro\ Condensed.ttf);
 }
 body {
-  overflow: scroll;
+  overflow-y: scroll;
 }
 * {
   font-family: fuentebenelli;
