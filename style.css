@@ -105,7 +105,8 @@ header {
   gap: 14px;
   font-weight: 700;
   letter-spacing: 0.5px;
-  background-color: rgb(0, 0, 0, 9);
+  background-color: rgb(0, 0, 0, 0.1);
+  border: none;
 }
 
 /* comiendo del main primer seccion: TRK 502****************************************************************************************************  */
