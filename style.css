@@ -158,8 +158,8 @@ header {
 /* seccion 2 del main:  dos imagenes completando el ancho de la pantalla************************************************************************************  */
 .seccion2 {
   display: flex;
-
-  height: auto;
+  justify-content: center;
+  align-items: center;
   border: solid #fff 15px;
 }
 
@@ -169,12 +169,13 @@ header {
   width: 50%;
   border-right: solid #fff 7.5px;
   overflow: hidden;
+  justify-content: center;
 }
 
 .img400 {
-  height: 82%;
   position: relative;
-  left: -330px;
+
+  display: flex;
 }
 
 .h2imperiale {
